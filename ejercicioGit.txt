@@ -1,3 +1,5 @@
 Éste es un archivo de prueba para la clase de Git.
 
 Se guardara en TXT
+
+Segúnda modificación
